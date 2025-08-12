@@ -1,0 +1,21 @@
+Praticas de Organização de codigo:
+exemplo
+
+antes:
+# if ($idade>=18){
+return 1;
+} else {
+return 0;
+}
+
+depois
+if($idade>=18){
+return true;
+}
+return false;
+
+Principais motivos do codigo ter um padrão e boas praticas de programação:
+
+Codigo mal escrtio sem otimização leva mais tempo de indendiemento, 
+Custa mais tempo e consequentemente mais dinheiro para ser atualizado.
+
