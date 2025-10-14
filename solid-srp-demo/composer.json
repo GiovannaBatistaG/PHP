@@ -1,0 +1,17 @@
+{
+    "name": "aluno/solid-srp-demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "valdir.junior",
+            "email": "valdir.junior@unimar.br"
+        }
+    ],
+    "require": {}
+}
